@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+I'm a physician scientist trying to learn data science.
